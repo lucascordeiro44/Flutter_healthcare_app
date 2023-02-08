@@ -1,0 +1,178 @@
+{
+    "proximo": "Próximo",
+    "dia": "Dia",
+    "mes": "Mês",
+    "ano": "ano",
+    "escolha": "Escolha",
+    "janeiro": "Janeiro",
+    "fevereiro": "Fevereiro",
+    "marco": "Marco",
+    "abril": "Abril",
+    "maio": "Maio",
+    "junho": "Junho",
+    "julho": "Julho",
+    "agosto": "Agosto",
+    "setembro": "Setembro",
+    "outubro": "Outubro",
+    "novembro": "Novembro",
+    "dezembro": "Dezembro",
+    "segunda": "Segunda-feira",
+    "terca": "Terça-feira",
+    "quarta": "Quarta-feira",
+    "quinta": "Quinta-feira",
+    "sexta": "Sexta-feira",
+    "sabado": "Sábado",
+    "domingo": "Domingo",
+    "cancelar": "Cancelar",
+    "sim-excluir": "Sim, excluir",
+    "confirmar": "Confirmar",
+    "concluir": "Concluir",
+    "cancelando": "Cancelando",
+    "sim": "Sim",
+    "nao": "Não",
+    "esta": "esta",
+    "esse": "esse",
+    "conexao-perdida": "Conexão perdida, tente novamente.",
+    "especialidade-base": "Nome ou Especialidade do médico",
+    "laboratorio-base": "Todos os exames",
+    "localidade-base": "Próximos 5 km",
+    "consultas": "Consultas",
+    "exames": "Exames",
+    "login": {
+        "bem-vindo-de-volta": "Bem-vindo de volta!",
+        "email": "email",
+        "senha": "senha",
+        "lembrar-usuario": "Lembrar usuário",
+        "esqueceu-a-senha": "Esqueceu a senha?",
+        "entrar": "ENTRAR",
+        "nao-possui-conta": "Não possui conta?",
+        "cadastra-se": "Cadastra-se"
+    },
+    "recuperar-senha": {
+        "recuperar-senha": "Recuperar senha",
+        "email": "email",
+        "enviar-codigo-por-sms": "ENVIAR CÓDIGO POR SMS",
+        "codigo-enviado": "Enviamos um e-mail para {} e um SMS contendo o código necessário."
+    },
+    "alterar-senha": {
+        "alterar-senha": "Alterar senha",
+        "codigo": "Código",
+        "senha-nova": "Senha nova",
+        "confirmar-senha-nova": "Confirmar senha nova",
+        "confirmar": "Confirmar",
+        "campo-obrigatorio": "Este campo é obrigatório",
+        "senhas-iguais": "As senhas devem ser as mesmas.",
+        "senha-alterada": "Sua senha foi alterada!"
+    },
+    "cadastro": {
+        "muito-prazer": "Muito prazer!",
+        "cadastro": "Cadastro",
+        "nome": "nome",
+        "sobrenome": "sobrenome",
+        "cpf": "CPF ",
+        "email": "email",
+        "confirmar-email": "confirmar email",
+        "senha": "senha",
+        "repetir-senha": "repetir senha",
+        "concordo-termos": "Eu concordo com os ",
+        "termos-uso": "termos de uso",
+        "cadastra-se": "Cadastra-se"
+    },
+    "cadastro-step1": {
+        "ola": "Olá ",
+        "selecionar-genero": ",\npor favor selecione\nseu gênero",
+        "masculino": "masculino",
+        "feminino": "feminino"
+    },
+    "cadastro-step2": {
+        "qual-e-a-data-nascimento": "Qual sua data\nde nascimento?",
+        "data-valida": "Insira uma data válida.",
+        "idade-minima": "Idade miníma de 16 anos."
+    },
+    "cadastro-step3": {
+        "melhor-celular-entrar-contato": "Qual o melhor celular para entrarmos em contato?"
+    },
+    "cadastro-step4": {
+        "profissao": "Profissão",
+        "qual-sua-profissao": "Qual sua\nprofissão?"
+    },
+    "cadastro-step5": {
+        "onde-voce-mora": "Onde você mora?",
+        "cep": "CEP",
+        "rua": "rua",
+        "numero": "número",
+        "complemento": "complemento",
+        "cidade": "cidade",
+        "estado": "estado",
+        "pais": "PAÍS"
+    },
+    "home": {
+        "seu-pagamento": "Seu pagamento de {}",
+        "sem-agendamento": "Você não tem agendamentos. \nAgende agora!",
+        "novo-agendamento": "NOVO AGENDAMENTO",
+        "consulta-agendada": "Consulta agendada",
+        "exame-agendado": "Exame agendado"
+    },
+    "meu-perfil": {
+        "meu-perfil": "Meu perfil",
+        "historico": "Histórico",
+        "pagamento": "Pagamentos",
+        "indique-um-amigo": "Indique um amigo",
+        "cupom-de-desconto": "Cupom de desconto",
+        "fale-conosco": "Fale conosco",
+        "excluir-conta": "Excluir conta",
+        "sair": "Sair",
+        "error-abrir-email": "Não foi possível abrir o aplicativo de e-mail.",
+        "excluindo-conta": "Excluindo conta..",
+        "certeza-sair-app": "Tem certeza que deseja sair do app?"
+    },
+    "historico": {
+        "agendamentos": "Agendamentos",
+        "pagamentos": "Pagamentos",
+        "nao-possui-historico": "Você não possui histórico de consultas.",
+        "nao-possui-pagamento": "Você não possui histórico de pagamentos.",
+        "cancelado": "Cancelado"
+    },
+    "historico-detalhe": {
+        "avalie-sua-consulta": "Avalie sua consulta",
+        "agendar-retorno": "AGENDAR RETORNO"
+    },
+    "pagamento": {
+        "pagamento": "Pagamento",
+        "metodos-de-pagamento": "MÉTODOS DE PAGAMENTO",
+        "adicionar-metodo-pagamento": "Adicionar método de pagamento",
+        "nao-possui-metodos": "Você não possui método de pagamento cadastrado."
+    },
+    "pagamento-detalhe": {
+        "detalhe-pagamento": "Detalhes do pagamento",
+        "mudar-configuracao-pagamento": "Você pode mudar a qualquer momento na configuração de pagamento",
+        "nome-titular": "Nome do titular",
+        "numero-cartao": "Número do cartão",
+        "data-validade": "Data de validade",
+        "cartao-principal": "Cartão principal",
+        "atualizar-metodo": "Atualizar método de pagamento",
+        "excluir-metodo": "Excluir método de pagamento",
+        "salvar": "SALVAR",
+        "data-invalida": "Data de validade inválida. Por favor, verifique.",
+        "salvando-alteracoes": "Salvando alterações"
+    },
+    "consulta-exame-agendado": {
+        "consulta": "consulta",
+        "exame": "exame",
+        "consulta-agendada": "Consulta agendada",
+        "pre-requisitos": "PRE-REQUISITOS",
+        "alterar": "Alterar",
+        "alterar-dia-horario": "Alterar dia ou horário {}",
+        "deseja-mesmo-cancelar": "Deseja mesmo cancelar {} {}"
+    },
+    "consulta-detalhe": {
+        "consulta-medica": "Consulta medica",
+        "pre-requisitos": "PRE-REQUISITOS",
+        "nenhum-horario-disponivel": "Nenhum horário disponível.",
+        "agendar": "AGENDAR",
+        "consulta-agendada": "Sua consulta foi agendada!",
+        "exame-agendado": "Seu exame foi agendado!",
+        "consulta-alterada": "A sua consulta foi alterada!",
+        "exame-alterado": "Seu exame foi alterado!"
+    }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1080588595007-51l4s5dba2r5i6ovngjro5b88bidd8ap.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBslFMotmgjN80cyYrwzV0U6aBppD53Bt0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080588595007</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.apps4gaps.dandelin</string>
+	<key>PROJECT_ID</key>
+	<string>dandelin-5e78a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dandelin-5e78a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080588595007:ios:08c69d9801c79057882d8a</string>
+	<key>DATABASE_URL</key>
+	<string>https://dandelin-5e78a.firebaseio.com</string>
+</dict>
+</plist>

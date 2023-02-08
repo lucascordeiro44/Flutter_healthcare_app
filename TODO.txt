@@ -1,0 +1,14 @@
+- ripple - inkwell
+- tratar msgs de erro , ver com augusto
+- nao trazer horarios antes de 12h
+
+* Proxima Sprint
+    - Historico/Consulta
+    - Editar/Cancelar consulta
+    - Resolver problema de vários endereços no médico
+
+timeout 
+
+--
+scroll nas datas
+clicar no local do médico para ver mapa

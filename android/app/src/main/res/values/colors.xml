@@ -1,0 +1,12 @@
+<resources>
+    <!-- Cores do tema -->
+    <color name="primary">@android:color/white</color>
+    <color name="primary_dark">@android:color/darker_gray</color>
+    <color name="accent">@android:color/holo_orange_dark</color>
+    <color name="control_highlight">#B3E5FC</color>
+
+    <!-- Demais cores -->
+    <color name="red">@android:color/holo_red_light</color>
+    <color name="gray">@android:color/darker_gray</color>
+
+</resources>

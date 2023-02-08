@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "1080588595007",
+    "firebase_url": "https://dandelin-5e78a.firebaseio.com",
+    "project_id": "dandelin-5e78a",
+    "storage_bucket": "dandelin-5e78a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080588595007:android:40eccdde6108451c882d8a",
+        "android_client_info": {
+          "package_name": "io.dandelin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080588595007-6dv719lq28enenghc6ij94nkm53dfril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhc983wend6AudlMPoqQy37b_kWu3w4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107852059203176363411",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps4gaps.dandelin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080588595007:android:86644806eb0322e9",
+        "android_client_info": {
+          "package_name": "io.dandelin.flutter_dandelin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080588595007-cg20uihhheupjmfpt2ed98i7f9h2s0ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.dandelin.flutter_dandelin",
+            "certificate_hash": "e59e1ee773c14efd689d7ece7d45ca766e91e905"
+          }
+        },
+        {
+          "client_id": "1080588595007-6dv719lq28enenghc6ij94nkm53dfril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhc983wend6AudlMPoqQy37b_kWu3w4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107852059203176363411",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps4gaps.dandelin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080588595007:android:30fea18b6ab6e8fe882d8a",
+        "android_client_info": {
+          "package_name": "io.dandelin.flutter_dandelin_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080588595007-6dv719lq28enenghc6ij94nkm53dfril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhc983wend6AudlMPoqQy37b_kWu3w4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107852059203176363411",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps4gaps.dandelin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080588595007:android:1a6e3e38c2786f5d882d8a",
+        "android_client_info": {
+          "package_name": "io.dandelinV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080588595007-6dv719lq28enenghc6ij94nkm53dfril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhc983wend6AudlMPoqQy37b_kWu3w4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107852059203176363411",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080588595007-e0e0i8qb14fan02omibarhg9m8cgrm6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps4gaps.dandelin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

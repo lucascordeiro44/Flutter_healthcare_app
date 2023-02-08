@@ -1,0 +1,47 @@
+https://invis.io/HMOZQQ0BEFD
+https://app.zeplin.io/project/5c9a729a50d7a876f72f7f84
+
+https://administrator.dandelin.io/
+adm@dandelin.io
+123456
+
+https://doctor.dandelin.io
+felipe@dandelin.io
+12345678
+
+https://laboratorios-stage.dandelin.io/
+mara 
+Dandelin@2018
+
+Dashboard novo
+https://dashboard-stage.dandelin.io
+adm@dandelin.io
+https://dashboard-stage.dandelin.io
+
+Cadastro novo
+https://dashboard-stage.dandelin.io/newUser
+
+cronograma
+https://docs.google.com/spreadsheets/d/1HRy2UMRDp80W9MqftHQ6qxyKHwx7QCN2WOvgpVpIoik/edit#gid=0
+
+===========
+Eventos GA
+https://docs.google.com/spreadsheets/d/1pWl9B_Ya34vHsT1sjEetjDf4goToUJLVTesoZ2Z4uiI/edit?ts=5e4e8c07#gid=0
+
+Planilha Backlog/Sprint 2020
+https://docs.google.com/spreadsheets/d/1mVzweRTSWuC4x_LGq1Cw4Ddewj0PJtqfc_ziZ3Dtbrs/edit#gid=1248851392
+
+Cartoes Testes
+https://docs.google.com/spreadsheets/d/1tyfyOyizlbFjmnK5MEQbYm7tA-L2rgkBntPTKQ8z16M/edit#gid=0
+
+Doctor develop
+https://doctors-development.dandelin.io/#/dashboard/settings
+
+Admindev
+https://administrator-development.dandelin.io/#/login
+suporte@livetouchdev.com.br
+123456
+@livetouch sem o dev
+
+CALLS
+https://meet.google.com/nwm-bbva-suv

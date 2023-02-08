@@ -1,0 +1,203 @@
+name: flutter_dandelin
+description: A new Flutter application.
+version: 1.5.4+121
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #Google
+  firebase_messaging: ^5.1.6
+  # firebase_crashlytics: ^0.1.0+2 
+  google_maps_flutter: ^0.5.21+8
+  provider: ^4.0.4
+  firebase_analytics: ^5.0.11
+  string_mask: ^0.1.0
+
+
+  #Social Login
+  google_sign_in: ^4.5.6
+  firebase_core: ^0.5.3
+  firebase_auth: ^0.18.4+1
+  apple_sign_in: ^0.1.0
+  flutter_facebook_login: ^3.0.0
+  flutter_signin_button: ^1.1.0
+
+
+  http: ^0.12.0+2 
+  shared_preferences: ^0.5.3+1
+  archive: ^2.0.10 
+  # path_provider: ^1.1.0  
+  url_launcher: ^5.1.3
+  intl: ^0.16.0
+  connectivity: ^0.4.3+6 
+  image_picker: ^0.6.7+7
+  image: ^2.1.4  
+  cached_network_image: ^2.0.0
+  flutter_secure_storage: ^3.3.1+1
+  badges: ^1.1.1
+  modal_bottom_sheet: ^0.1.6+1
+  easy_localization: ^2.3.3
+  country_list_pick: ^1.0.1+2
+
+  #chat_livecom
+  dio: ^3.0.9
+  flutter_app_badger: ^1.1.2
+  web_socket_channel: ^1.1.0
+  audioplayers: ^0.14.0
+  flutter_xlider: ^3.0.0
+  flutter_linkify: ^3.1.0
+  photo_view: ^0.9.1
+  random_color: ^1.0.3
+  flutter_sound: ^2.0.3
+  shimmer: ^1.0.1
+  package_info: ^0.4.0+13
+  flutter_local_notifications: ^1.1.6
+
+
+  #Libs
+  sqflite: ^1.1.6+1 
+  rxdart: ^0.22.0
+  geolocator: ^5.1.3
+  location: ^2.3.5
+  
+  bloc_pattern: ^2.2.1
+  # fluttertoast: ^3.1.0
+  dots_indicator: ^1.1.0  
+  flutter_masked_text: ^0.8.0
+  highlighter_coachmark: ^0.0.3
+  flutter_slidable: ^0.5.3
+  after_layout: ^1.0.7+2 
+  auto_size_text: ^2.1.0
+  path: ^1.6.4
+  text_input_mask_formatter: ^0.0.3 
+  carousel_slider: ^1.3.0
+  page_transition: ^1.1.4
+  flutter_calendar_carousel: ^1.3.18
+  pin_code_text_field: ^1.7.1
+  location_permissions: ^3.0.0+1
+  cpf_cnpj_validator: ^1.0.5
+  showcaseview: ^0.1.3
+  credit_card_type_detector: ^1.1.0
+  share: ^0.6.3+1  
+  device_info: ^0.4.2+4
+  webview_flutter: ^0.3.21
+  #icons
+  font_awesome_flutter: ^8.5.0
+  material_design_icons_flutter: ^3.2.3895  
+  cupertino_icons: ^0.1.2 
+  sentry: ^2.3.1
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter  
+
+
+flutter: 
+  uses-material-design: true
+ 
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - assets/images/ 
+   - assets/logos/
+   - assets/lang/
+   - assets/logos/apple_logo.png
+   - assets/logos/fb_logo.png
+   - assets/logos/google_logo.png
+   - assets/chat/
+
+
+  
+  fonts:
+    
+    - family: Mark
+      fonts:
+        - asset: assets/fonts/Mark-Regular.ttf
+        - asset: assets/fonts/Mark-Regular-Italic.ttf
+          style: italic
+        ######## Thin w100 ########
+        - asset: assets/fonts/Mark-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Mark-Thin-Italic.ttf
+          weight: 100
+          style: italic
+        ######## ExtraLight w200 ########
+        - asset: assets/fonts/Mark-Extralight.ttf
+          weight: 200
+        - asset: assets/fonts/Mark-Extralight-Italic.ttf
+          weight: 200
+          style: italic
+        ######## Light w300 ########
+        - asset: assets/fonts/Mark-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Mark-Light-Italic.ttf
+          weight: 300
+          style: italic
+        ######## Medium w500 ########
+        - asset: assets/fonts/Mark-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Mark-Medium-Italic.ttf
+          weight: 500
+          style: italic
+        ######## Bold w700 ########
+        - asset: assets/fonts/Mark-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Mark-Bold-Italic.ttf
+          weight: 700
+          style: italic
+        ######## Heavey w800 ########
+        - asset: assets/fonts/Mark-Heavy.ttf
+          weight: 800
+        - asset: assets/fonts/Mark-Heavy-Italic.ttf
+          weight: 800
+          style: italic
+        ######## Black w900 ########   
+        - asset: assets/fonts/Mark-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Mark-Black-Italic.ttf
+          weight: 900
+          style: italic
+
+    - family: Mark Book
+      fonts: 
+        - asset: assets/fonts/Mark-Book.ttf
+        - asset: assets/fonts/Mark-Book-Italic.ttf
+          style: italic
+
+    - family: San Francisco
+      fonts:
+        - asset: assets/fonts/San-Francisco.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+         
+    #     - asset: assets/fonts/Mark-Hairline.ttf
+    #       weight: 100
+    #     - asset: assets/fonts/Mark-Hairline-Italic.ttf
+    #       weight: 100
+    #       style: italic
+
+    # - family: Mark Small Caps
+    #   fonts:   
+    #     - asset: assets/fonts/Mark-SmallCaps-Regular.ttf
+    #     - asset: assets/fonts/Mark-SmallCaps-Black.ttf
+    #       weight: 700
+
+    # - family: Poppins
+    #   fonts:
+    #     - asset: assets/fonts/poppins_regular.ttf
+    #     - asset: assets/fonts/poppins_light.ttf
+    #       weight: 300
+    #     - asset: assets/fonts/poppins_medium.ttf
+    #       weight: 500
+    #     - asset: assets/fonts/poppins_semibold.ttf
+    #       weight: 600
+         
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+ 
